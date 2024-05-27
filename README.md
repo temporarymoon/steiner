@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/steiner](https://github.com/prescientmoon/steiner) 🚧
 # Steiner
 
 Ml style language I'm making for fun
